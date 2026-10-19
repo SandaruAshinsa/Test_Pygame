@@ -1,4 +1,4 @@
-# Rise of Nations: Village Developer Edition
+# Village Developer Mini Game
 
 A small real-time strategy game built with Python and Pygame. Build and upgrade your village, train units, defend against enemy waves, and complete all eight levels.
 
